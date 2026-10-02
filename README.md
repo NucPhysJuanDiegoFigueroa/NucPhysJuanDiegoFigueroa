@@ -9,7 +9,7 @@ I'm doing an Erasmus master's in Nuclear Physics, currently at the Universidad d
 - **Computing & numerical methods** — solving physics problems with code instead of only pen and paper
 - **Quantum mechanics** and **atomic & plasma physics** — notes, small simulations and worked problems
 - **Experimental lab work** — data analysis, fits and uncertainty propagation
-- Next up: **nuclear structure** models (Madrid semester)
+- Next up: **nuclear structure** models
 ### 🛠️ Tools
  
 <!-- Deja solo lo que de verdad usas -->
