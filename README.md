@@ -18,14 +18,11 @@ I'm doing an Erasmus master's in Nuclear Physics, currently at the Universidad d
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
- 
-### 🌱 Currently learning
- 
-- Writing cleaner, reproducible scientific code
-- <!-- algo más: C++, Fortran, ROOT, Geant4... -->
+
+
 ### 📫 Contact
  
-- Email: <!-- tu correo académico -->
+- Email: juafigher@alum.us.es
 - Languages: Español (native) · English
 ---
  
